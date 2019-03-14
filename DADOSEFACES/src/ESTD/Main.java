@@ -32,7 +32,7 @@ public class Main {
 
             if (opcao==1){
                 System.out.println("Voce selecionou a opção de  enfrentar o vampiro: (2 d6)");
-                System.out.println("Para sucesso deve se tirar 7");
+                System.out.println("Para sucesso deve se tirar 7!");
 
 
 
